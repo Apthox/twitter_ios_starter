@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://lh5.googleusercontent.com/q0n4YGPCwcWs5QqdDZuqlth-u4Av1k6Sb7tPP4CkuCl-sHb1FWfguWh8tv8XUu4KzeM8UteDCOz_hH3cAePO=w1274-h1361-rw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s1.gifyu.com/images/ezgif.com-video-to-gif4638d823b5b26534.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **TwitterClone** is a basic twitter app to read your tweets.
 
